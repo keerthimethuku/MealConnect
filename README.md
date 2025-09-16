@@ -1,6 +1,4 @@
-# Mejbaan
-
-![Mejbaan Logo](https://i.ibb.co/mtX9Sjx/Web-capture-25-7-2023-195629-localhost.jpg)
+# MealConnect
 
 Mejbaan is a surplus food sharing web application aimed at reducing food waste and combating hunger. The app enables users to share their extra food items with those in need, thereby contributing to the United Nations' Sustainable Development Goal of "Zero Hunger."
 
