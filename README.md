@@ -1,6 +1,8 @@
 # MealConnect
 
-Mejbaan is a surplus food sharing web application aimed at reducing food waste and combating hunger. The app enables users to share their extra food items with those in need, thereby contributing to the United Nations' Sustainable Development Goal of "Zero Hunger."
+MealConnect is a community-driven platform that helps reduce food waste by connecting individuals, restaurants, and organizations with surplus food to people in need.
+It aims to make sharing food simple, efficient, and dignified.
+
 
 ## Table of Contents
 
@@ -8,24 +10,28 @@ Mejbaan is a surplus food sharing web application aimed at reducing food waste a
 - [Problem Statement](#problem-statement)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Acknowledgments](#acknowledgments)
+- [Impact](#Impact)
 
 ## Introduction
 
-Mejbaan is a project developed for the Global NGO Executive Committee (GNEC) hackathon with a mission to address the critical issue of food wastage and hunger in the world. More than one-third of all food produced is wasted, while millions of people suffer from hunger and malnutrition every day. This web app aims to bridge this gap by creating a platform where individuals can share their surplus food items, and NGOs or volunteers can collect and distribute the food to those in need.
+MealConnect is a project originally developed for the Global NGO Executive Committee (GNEC) Hackathon with the mission of addressing two global challenges: food wastage and hunger.
+Every year, over one-third of the world’s food is wasted, while millions of people go hungry.
+MealConnect creates a bridge between surplus food and people in need by providing a platform where individuals can share extra food, and NGOs or volunteers can collect and distribute it responsibly.
 
 ## Problem Statement
 
-Approximately 2.5 billion tonnes of food are wasted annually, while around 828 million people suffer from hunger on a daily basis. The Mejbaan project tackles this issue by providing a user-friendly platform for surplus food sharing, enabling people to make a meaningful impact in their communities.
+Globally, an estimated 1.5 billion tonnes of food are wasted annually, while nearly 733 million people face hunger every day.
+MealConnect provides a practical solution by offering a simple, location-based web platform that enables communities to donate surplus food and ensure it reaches those who need it most.
 
 ## Features
 
-- **User Registration and Authentication**: Users can sign up and log in securely to their accounts, ensuring a personalized experience.
+User Authentication – Secure sign-up and login with personalized access.
 
-- **Surplus Food Listing**: Users can list the surplus food items they wish to donate. They can provide details such as the type of food, quantity, and expiry date (if applicable).
+Surplus Food Listings – Donors can list food items with details such as type, quantity, and expiry date.
 
-- **Location-based Search**: Mejbaan uses GPS/Location Services to provide accurate locations and distances between food donors and potential recipients.
+Location-based Search – Integrated with geolocation services to match donors with nearby recipients.
+
+Community Impact – Empowers individuals, NGOs, and volunteers to reduce waste and fight hunger together.
 
 ## Technologies Used
 
@@ -44,15 +50,11 @@ Approximately 2.5 billion tonnes of food are wasted annually, while around 828 m
 - API Integration:
   - Geolocation API (Browser)
 
-## How to Use
 
-1. Clone the repository: `git clone https://github.com/nawaz0x1/mejbaan.git`
-2. Install dependencies: `npm install`
-3. Set up environment variables for Appwrite configuration.
-4. Run the application: `npm run dev`
+## Impact
 
-## Acknowledgments
+♻️ Reduces food waste.
 
-I extend my gratitude to the Global NGO Executive Committee (GNEC) for organizing the hackathon and promoting initiatives towards achieving the United Nations' Sustainable Development Goals. Special thanks to the mentors, judges, and volunteers for their support and encouragement throughout this project.
+🍱 Helps distribute meals to those in need.
 
-Together, let's make a difference in the fight against hunger! 🌱🌍🍲
+❤️ Builds community responsibility and care.
