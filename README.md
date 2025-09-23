@@ -14,7 +14,7 @@ It aims to make sharing food simple, efficient, and dignified.
 
 ## Introduction
 
-MealConnect is a project originally developed for the Global NGO Executive Committee (GNEC) Hackathon with the mission of addressing two global challenges: food wastage and hunger.
+MealConnect is a project with the mission of addressing two global challenges: food wastage and hunger.
 Every year, over one-third of the world’s food is wasted, while millions of people go hungry.
 MealConnect creates a bridge between surplus food and people in need by providing a platform where individuals can share extra food, and NGOs or volunteers can collect and distribute it responsibly.
 
